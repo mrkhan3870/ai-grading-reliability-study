@@ -1,0 +1,10 @@
+Metric,Value
+N (essays),100
+Mean Human Score,8.46
+Mean AI Score,5.19
+Std Human Score,1.52
+Std AI Score,1.4
+Pearson r,0.465
+p-value,1.114e-06
+Mean Difference (Human - AI),3.27
+Std Difference,1.52

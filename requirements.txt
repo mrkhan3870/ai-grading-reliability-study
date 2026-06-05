@@ -4,3 +4,4 @@ matplotlib
 scipy
 openai
 python-dotenv
+tqdm
