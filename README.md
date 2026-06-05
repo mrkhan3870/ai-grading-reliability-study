@@ -67,36 +67,6 @@ Generated figures saved to `results/figures/`:
 
 ---
 
-## Repository Structure
-ai-grading-reliability-study/
-├── data/
-│   ├── raw/
-│   └── processed/
-│       └── essays.csv
-├── scripts/
-│   ├── explore_dataset.py
-│   ├── clean_data.py
-│   ├── run_ai_grading.py
-│   └── analyze_results.py
-├── results/
-│   ├── figures/
-│   │   ├── score_distribution.png
-│   │   ├── scatter_plot.png
-│   │   └── bland_altman.png
-│   └── tables/
-│       ├── ai_scores_pilot.csv
-│       ├── summary_statistics.csv
-│       └── largest_disagreements.csv
-├── report/
-│   └── (see link below)
-├── .env
-├── .gitignore
-├── requirements.txt
-└── README.md
-
-
----
-
 ## Setup & Reproduction
 
 ### Prerequisites
