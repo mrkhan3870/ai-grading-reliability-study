@@ -1,7 +1,8 @@
+tqdm
+openai
+python-dotenv
 pandas
 numpy
 matplotlib
 scipy
-openai
-python-dotenv
-tqdm
+scikit-learn
